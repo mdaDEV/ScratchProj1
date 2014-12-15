@@ -1,6 +1,6 @@
 Exception: STATUS_ACCESS_VIOLATION at eip=6112D911
 eax=01B1B80B ebx=01B1B80B ecx=00000000 edx=01B1B80B esi=00000000 edi=01B1B80B
-ebp=0028A988 esp=0028A984 program=C:\Users\MDAAdvisors\Documents\NetBeansProjects\ScratchProj1\dist\Debug\Cygwin_4.x-Windows\scratchproj1.exe, pid 9556, thread main
+ebp=0028A988 esp=0028A984 program=C:\Users\MDAAdvisors\Documents\NetBeansProjects\ScratchProj1\dist\Debug\Cygwin_4.x-Windows\scratchproj1.exe, pid 5700, thread main
 cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
 Stack trace:
 Frame     Function  Args
